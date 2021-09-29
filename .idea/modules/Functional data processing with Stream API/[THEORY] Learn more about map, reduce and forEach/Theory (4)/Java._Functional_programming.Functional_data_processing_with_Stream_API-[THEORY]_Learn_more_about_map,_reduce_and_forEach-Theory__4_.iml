@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Functional_data_processing_with_Stream_API-[THEORY]_Learn_more_about_map,_reduce_and_forEach-Theory__4_" external.linked.project.path="$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (4)" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java._Functional_programming" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (4)">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (4)/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (4)/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (4)/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

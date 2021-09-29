@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Functional_interfaces,_lambda_expressions_and_methods_references-Identify_the_correct_lambdas_and_method_references-Quiz" external.linked.project.path="$MODULE_DIR$/../../../../../Functional interfaces, lambda expressions and methods references/Identify the correct lambdas and method references/Quiz" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java._Functional_programming" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Functional interfaces, lambda expressions and methods references/Identify the correct lambdas and method references/Quiz">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Functional interfaces, lambda expressions and methods references/Identify the correct lambdas and method references/Quiz/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Functional interfaces, lambda expressions and methods references/Identify the correct lambdas and method references/Quiz/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Functional interfaces, lambda expressions and methods references/Identify the correct lambdas and method references/Quiz/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

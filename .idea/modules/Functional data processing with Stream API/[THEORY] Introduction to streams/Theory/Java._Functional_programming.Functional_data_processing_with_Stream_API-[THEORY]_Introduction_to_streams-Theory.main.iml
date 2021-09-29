@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Functional_data_processing_with_Stream_API-[THEORY]_Introduction_to_streams-Theory:main" external.linked.project.path="$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Introduction to streams/Theory" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java._Functional_programming" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Introduction to streams/Theory/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Introduction to streams/Theory/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Functional data processing with Stream API/[THEORY] Introduction to streams/Theory/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Java._Functional_programming.util.main" />
+  </component>
+</module>

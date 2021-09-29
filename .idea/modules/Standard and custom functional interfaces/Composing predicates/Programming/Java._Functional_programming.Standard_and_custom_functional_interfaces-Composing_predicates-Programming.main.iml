@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Standard_and_custom_functional_interfaces-Composing_predicates-Programming:main" external.linked.project.path="$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Composing predicates/Programming" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java._Functional_programming" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Composing predicates/Programming/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Composing predicates/Programming/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Composing predicates/Programming/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Java._Functional_programming.util.main" />
+  </component>
+</module>

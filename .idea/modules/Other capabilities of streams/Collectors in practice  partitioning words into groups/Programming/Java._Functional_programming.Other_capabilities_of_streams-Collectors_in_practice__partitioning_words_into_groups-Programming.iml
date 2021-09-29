@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Other_capabilities_of_streams-Collectors_in_practice__partitioning_words_into_groups-Programming" external.linked.project.path="$MODULE_DIR$/../../../../../Other capabilities of streams/Collectors in practice  partitioning words into groups/Programming" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java._Functional_programming" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Other capabilities of streams/Collectors in practice  partitioning words into groups/Programming">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Other capabilities of streams/Collectors in practice  partitioning words into groups/Programming/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Other capabilities of streams/Collectors in practice  partitioning words into groups/Programming/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Other capabilities of streams/Collectors in practice  partitioning words into groups/Programming/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

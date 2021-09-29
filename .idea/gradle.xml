@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Currying functions/Programming" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Currying functions/Programming (1)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Functions returning functions/Quiz" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Functions returning functions/Quiz (1)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Optionals/Programming" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Optionals/Programming (1)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Optionals/Theory" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Understanding monads and related things/Matching" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Understanding monads and related things/Quiz" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/Understanding monads and related things/Quiz (1)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/What monads exist in Java 8?/Quiz" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[HARD] Custom integer reducer/Programming" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[HARD] Multifunctional mapper/Programming" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[OPTIONAL] Write your own monad and answer our questions/Free Response" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[OPTIONAL] Write your own monad and answer our questions/Quiz" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[OPTIONAL] Write your own monad and answer our questions/Quiz (1)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[OPTIONAL] Write your own monad and answer our questions/Theory" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (1)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (2)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (3)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (4)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (5)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (6)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (7)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Returning functions and currying/Theory" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Returning functions and currying/Theory (1)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Returning functions and currying/Theory (2)" />
+            <option value="$PROJECT_DIR$/Advanced concepts of functional programming/[THEORY] Returning functions and currying/Theory (3)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Bad words detecting/Programming" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Calculating a factorial/Programming" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Checking if a number is prime/Programming" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Matching/Quiz" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Matching/Quiz (1)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Matching/Quiz (2)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Numbers filtering/Programming" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Test your knowledge of stream operations/Table" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/The sum of odd numbers/Programming" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/The total sum of canceled transactions/Programming" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/The ﻿general number of employees/Programming" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/Understanding of flatMap together with stream creating/Matching" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Introduction to streams/Theory" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Introduction to streams/Theory (1)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Introduction to streams/Theory (2)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Introduction to streams/Theory (3)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Introduction to streams/Theory (4)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Introduction to streams/Theory (5)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (1)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (2)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (3)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (4)" />
+            <option value="$PROJECT_DIR$/Functional data processing with Stream API/[THEORY] Learn more about map, reduce and forEach/Theory (5)" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Calculating production of all numbers in the range/Programming" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Getting distinct strings/Programming" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Identify the correct lambdas and method references/Quiz" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Identify the correct lambdas and method references/Quiz (1)" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Too many arguments/Programming" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Writing closures/Programming" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Writing closures/Programming (1)" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Writing simple lambda expressions/Programming" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/Writing simple lambda expressions/Programming (1)" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/[THEORY] Lambda expressions and method references/Theory" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/[THEORY] Lambda expressions and method references/Theory (1)" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/[THEORY] Lambda expressions and method references/Theory (2)" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/[THEORY] Lambda expressions and method references/Theory (3)" />
+            <option value="$PROJECT_DIR$/Functional interfaces, lambda expressions and methods references/[THEORY] Lambda expressions and method references/Theory (4)" />
+            <option value="$PROJECT_DIR$/Introduction/The general course information/Theory" />
+            <option value="$PROJECT_DIR$/Introduction/The general course information/Theory (1)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Almost like a SQL  click count/Programming" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Almost like a SQL  the total sum of transactions by each account/Programming" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Choose the existing collectors/Quiz" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Choose the existing collectors/Quiz (1)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Collectors in practice  partitioning words into groups/Programming" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Collectors in practice  the product of squares/Programming" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Myths and facts about parallel streams/Quiz" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/Parallel filtering of prime numbers/Programming" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Collectors/Theory" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Collectors/Theory (1)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Collectors/Theory (2)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Collectors/Theory (3)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Collectors/Theory (4)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Parallel streams/Theory" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Parallel streams/Theory (1)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Parallel streams/Theory (2)" />
+            <option value="$PROJECT_DIR$/Other capabilities of streams/[THEORY] Parallel streams/Theory (3)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Behaviour parametrization with lambda expressions/Programming" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Composing predicates/Programming" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Matching the functional interfaces/Matching" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Matching the functional interfaces/Matching (1)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Replacing anonymous classes with lambda expressions/Quiz" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Replacing anonymous classes with lambda expressions/Quiz (1)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Understanding of the function composition/Text" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Understanding of the function composition/Text (1)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Usage of comparators and composition for sorting/Sorting" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/Your own functional interface/Programming" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[HARD] The chain of responsibility/Programming" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[HARD] The chain of responsibility/Theory" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[HARD] The chain of responsibility/Theory (1)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[THEORY] Functions are objects/Theory" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[THEORY] Functions are objects/Theory (1)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[THEORY] Functions are objects/Theory (2)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[THEORY] Functions are objects/Theory (3)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[THEORY] Functions are objects/Theory (4)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[THEORY] Functions are objects/Theory (5)" />
+            <option value="$PROJECT_DIR$/Standard and custom functional interfaces/[THEORY] Functions are objects/Theory (6)" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

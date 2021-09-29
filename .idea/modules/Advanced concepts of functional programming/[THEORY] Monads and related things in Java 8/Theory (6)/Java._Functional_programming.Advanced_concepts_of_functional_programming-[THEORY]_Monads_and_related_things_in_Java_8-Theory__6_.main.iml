@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Advanced_concepts_of_functional_programming-[THEORY]_Monads_and_related_things_in_Java_8-Theory__6_:main" external.linked.project.path="$MODULE_DIR$/../../../../../Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (6)" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java._Functional_programming" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (6)/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (6)/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Advanced concepts of functional programming/[THEORY] Monads and related things in Java 8/Theory (6)/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Java._Functional_programming.util.main" />
+  </component>
+</module>

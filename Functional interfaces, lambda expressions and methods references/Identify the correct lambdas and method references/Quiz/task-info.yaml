@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: x -&gt; { }
+- text: (x, y) =&gt; x + y
+- text: (x) =&gt; x
+- text: x := x
+- text: () -&gt; 3
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+status: Failed
+feedback:
+  message: Wrong solution
+  time: Wed, 15 Sep 2021 10:59:13 UTC
+record: -1

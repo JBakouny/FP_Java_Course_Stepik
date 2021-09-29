@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Standard_and_custom_functional_interfaces-Understanding_of_the_function_composition-Text" external.linked.project.path="$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Understanding of the function composition/Text" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java._Functional_programming" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Understanding of the function composition/Text">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Understanding of the function composition/Text/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Understanding of the function composition/Text/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Standard and custom functional interfaces/Understanding of the function composition/Text/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
